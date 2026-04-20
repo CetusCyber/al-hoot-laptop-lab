@@ -13,6 +13,17 @@
 
 ---
 
+```text
+Ecosystem
+└─ Al‑Hoot Lab (Laptop Fortress)
+   ├─ Windows 11 LTSC + AtlasOS
+   ├─ Ventoy + MediCat (Rescue Layer)
+   ├─ WSL2 + Kali (Security Layer)
+   ├─ WSA (Android Layer)
+   ├─ Windows Sandbox (Isolation Layer)
+   └─ Local AI (Ollama on WSL)
+````
+
 ## 🎯 Project Objectives
 * Create a real-world production and testing environment on a single machine.
 * Serve as a multi-purpose platform for:
